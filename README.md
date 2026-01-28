@@ -12,11 +12,14 @@ All analyses and figures are generated from a Quarto (.qmd) document, with resul
 ## Data
 
 The analysis uses a cleaned subset of the Europarl corpus containing parliamentary proceedings in multiple European languages.
+
 Cleaned Europarl data can be found here: 
 https://drive.google.com/drive/folders/1MppfNWnHaFMf3Tc-HGtbIiGNVTsdqB98?usp=drive_link
 
 ## Repository Contents
 
 final_project.qmd — Quarto source file containing all analysis, figures, and tables
+
 final_project.pdf — Rendered report
+
 fastText/ — FastText binary used for supervised classification
